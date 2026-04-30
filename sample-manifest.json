@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3ea22386-16a1-42cf-9b7f-abbde0a5ccc6",
+  "export_job_id": "23db62e6-9ae7-42a2-bd0e-5ebb0ef86ef4",
   "id_short": 485576,
-  "published_at": "2026-04-22T19:47:25Z",
+  "published_at": "2026-04-30T07:29:41Z",
   "repo_name": "tech-ready-restaurants-in-indiana-us-sample-485576",
   "sample_asset_name": "beamstation_485576_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/485576/beamstation_485576_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "7b2560c05492042b29333907f05eed4a4455ffcacb920c6e8a2cfd8748219cfe",
-  "sample_size_bytes": 27511,
-  "total_records": 30
+  "sample_records": 11,
+  "sample_sha256": "5739de5c715196c037271d7a4b8aaf8137da89fe50e00cf41e5051dd8d88df60",
+  "sample_size_bytes": 61199,
+  "total_records": 110
 }
